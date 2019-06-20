@@ -1,17 +1,17 @@
 # fxp-sort
 Scan directories containing .fxp files and determine the target synth. Currently supports Serum and Sylenth files.
 
-# Compiliation:
+# Compilation:
 
 `gcc Main.c -o fxp-sort`
 
 OR
 
-`make`
+`mingw32-make`
 
 OR 
 
-`make all`
+`mingw32-make all`
 
 # Usage:
 
