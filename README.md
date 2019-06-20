@@ -15,6 +15,6 @@ make all
 
 # Usage:
 
-fxp-sort <directory> <rename?>
+fxp-sort <target_folder> <rename?>
   
 If the rename parameter is not provided then the program will not rename files.
