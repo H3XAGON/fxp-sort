@@ -3,18 +3,18 @@ Scan directories containing .fxp files and determine the target synth. Currently
 
 # Compiliation:
 
-gcc Main.c -o fxp-sort
+`gcc Main.c -o fxp-sort`
 
 OR
 
-make
+`make`
 
 OR 
 
-make all
+`make all`
 
 # Usage:
 
-fxp-sort <target_folder> <rename?>
+`fxp-sort <target_folder> <rename?>`
   
 If the rename parameter is not provided then the program will not rename files.
