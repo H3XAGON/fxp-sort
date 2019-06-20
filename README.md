@@ -1,7 +1,6 @@
 # fxp-sort
 Scan directories containing .fxp files and determine the target synth.
 
------------------------------------------------------------------------
 # Compiliation:
 
 gcc Main.c -o fxp-sort
@@ -14,7 +13,6 @@ OR
 
 make all
 
------------------------------------------------------------------------
 # Usage:
 
 fxp-sort <directory> <rename?>
