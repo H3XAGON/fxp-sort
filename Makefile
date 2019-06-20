@@ -9,4 +9,4 @@ obj=$(src:.c=.o)
 all: default
 
 default: $(obj)
-	$(CC) -o $(EXECUTABLE) $^ $(LDFLAGS)
+	gcc -o $(EXECUTABLE) $^ $(LDFLAGS)
